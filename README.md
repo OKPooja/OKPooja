@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Code Anywhere](https://github.com/OKPooja/MPR-6)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **gawadepooja729@gmail.com**
 
