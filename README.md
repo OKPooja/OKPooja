@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pooja Gawade</h1>
 <h3 align="center">A passionate app developer from India</h3>
 
-- 🔭 I’m currently working on [Code Anywhere](https://github.com/OKPooja/MPR-6)
-
 - 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **gawadepooja729@gmail.com**
